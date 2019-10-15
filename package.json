@@ -12,7 +12,7 @@
     "jest-expo": "^23.0.0",
     "prettier": "^1.5.3",
     "prettier-eslint": "^8.2.2",
-    "react-native-scripts": "1.7.0",
+    "react-native-scripts": "2.0.1",
     "react-test-renderer": "^16.1.1"
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
