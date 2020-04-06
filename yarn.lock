@@ -4713,9 +4713,13 @@ prettier-eslint@^8.2.2:
     typescript "^2.5.1"
     typescript-eslint-parser "^8.0.0"
 
-prettier@^1.5.3, prettier@^1.7.1:
+prettier@^1.7.1:
   version "1.8.2"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.8.2.tgz#bff83e7fd573933c607875e5ba3abbdffb96aeb8"
+
+prettier@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.0.3.tgz#9a06f0e94a51420e78b6925568b5bec72afe41ea"
 
 pretty-format@^20.0.3:
   version "20.0.3"
