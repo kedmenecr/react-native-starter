@@ -98,6 +98,12 @@
   dependencies:
     cross-spawn "^5.1.0"
 
+"@expo/vector-icons@^10.1.0":
+  version "10.1.0"
+  resolved "https://registry.yarnpkg.com/@expo/vector-icons/-/vector-icons-10.1.0.tgz#3fb2517924b031c1b98f86fa51a2032a257759b0"
+  dependencies:
+    lodash "^4.17.4"
+
 "@expo/vector-icons@^6.2.0":
   version "6.2.0"
   resolved "https://registry.yarnpkg.com/@expo/vector-icons/-/vector-icons-6.2.0.tgz#1269b263c3d78609cfa5e65b9b524aeb4718c335"
